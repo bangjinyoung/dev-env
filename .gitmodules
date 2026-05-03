@@ -1,6 +1,6 @@
 [submodule "gitalias"]
-	path = gitalias
+	path = git/gitalias
 	url = https://github.com/GitAlias/gitalias.git
 [submodule "git-commit-template"]
-	path = git-commit-template
+	path = git/git-commit-template
 	url = https://github.com/joelparkerhenderson/git-commit-template
